@@ -25,7 +25,7 @@ for i in range(90):
         t.left(90)
 ```
 
-![[Pasted image 20220502003545.png]]
+![01](01.png)
 
 Autor w ramach zadania 3 odwzorował algorytmem w języku Python przykładowy fraktal:
 ```python
@@ -60,7 +60,7 @@ t.right(60)
 draw_sierpinski(100, 3)  
 window.exitonclick()
 ```
-![[Pasted image 20220502004843.png]]
+![02](02.png)
 
 W ramach zadania 4, autor w swoich programach wykorzystał metody i klasy do generowania fraktali, aby narysować 4 dowolne fraktale.
 ```python
@@ -97,7 +97,7 @@ star(tur, 360)
 turtle.done()
 ```
 
-![[Pasted image 20220502005312.png]]
+![03](03.png)
 
 ```python
 from turtle import *  
@@ -138,7 +138,7 @@ yaxis(80, 7)
 turtle.done()
 ```
 
-![[Pasted image 20220502005400.png]]
+![04](04.png)
 
 ```python
 from turtle import *  
@@ -211,7 +211,7 @@ if __name__ == "__main__":
     turtle.done()
 ```
 
-![[Pasted image 20220502005527.png]]
+![05](05.png)
 
 ```python
 from turtle import *  
@@ -255,4 +255,4 @@ turtle = turtle.Turtle()
 turtle.speed(0)  
 fractdraw(5, "a", 90, 5, turtle)
 ```
-![[Pasted image 20220502005949.png]]
+![06](06.png)
