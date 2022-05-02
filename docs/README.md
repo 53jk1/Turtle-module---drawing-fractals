@@ -1,6 +1,3 @@
-# Kacper Bąk
-## nr albumu 40851
-### Akademia WSB
 Autor rozwiązał zadanie pierwsze pisząc program, zawierający instrukcję rysowania kwadratu:
 ```python
 import turtle  
